@@ -2,7 +2,7 @@
 # Copyright (c) 2024 DecalAPI contributors
 # SPDX-License-Identifier: MIT
 #
-# Source: https://github.com/your-username/DecalAPI
+# Source: https://github.com/OpenSourceNet-2026/DecalAPI
 
 import sys
 from PyQt6.QtWidgets import QApplication
